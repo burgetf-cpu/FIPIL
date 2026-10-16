@@ -1,0 +1,25 @@
+body{background-color: lightblue;
+color: #251e8a;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;}
+h1{text-align: center;}
+p{width: 600px;
+margin-left: 300px;
+line-height: 1.5;
+text-align: justify;}
+nav{width: 200px;
+    padding-left: 30px;
+    line-height: 2;}
+.vpravo{float: right;}
+.vlevo{float: left;}
+img{margin-right: 100px;}
+a:link{color: rgb(144, 255, 255);text-decoration:underline;} 
+a:visited {color: rgb(144, 255, 255);text-decoration: none;}
+a:active{color: black;text-decoration:none ;}
+a:hover{color: ghostwhite;background-color: cornflowerblue;text-decoration:none ;}
+article{width: 25%;
+float: left;
+border: thin solid;
+padding:30px 5px 0px 5px ;
+border-radius: 10px;
+margin: 0px 15px 30px 15px ;}
